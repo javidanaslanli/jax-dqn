@@ -15,9 +15,9 @@
 <img width="1186" height="790" alt="download" src="https://github.com/user-attachments/assets/a30247cd-3e8c-4afc-b107-c33ccb758fff" />
 
 
-# Total Time: 1.00s 
-# Steps/Second: 399529.16
-# Final Timesteps: 400000
-# Final Updates: 99750
-# Final Loss: 0.0842
-# Final Returns: -126.50
+## Total Time: 1.00s 
+## Steps/Second: 399529.16
+## Final Timesteps: 400000
+## Final Updates: 99750
+## Final Loss: 0.0842
+## Final Returns: -126.50
