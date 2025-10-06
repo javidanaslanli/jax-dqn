@@ -17,7 +17,4 @@
 
 ## Total Time: 1.00s 
 ## Steps/Second: 399529.16
-## Final Timesteps: 400000
-## Final Updates: 99750
-## Final Loss: 0.0842
-## Final Returns: -126.50
+
