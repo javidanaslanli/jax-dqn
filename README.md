@@ -1,4 +1,4 @@
-# PureJAXRL DQN
+# Jax Deep Q-Learning Vectorized
 
 ## Features
 
